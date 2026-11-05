@@ -1,0 +1,5 @@
+names:
+- smoke
+nc: 1
+train: C:/waferData/smoke/label/train
+val: C:/waferData/smoke/label/val/
